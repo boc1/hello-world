@@ -1,5 +1,4 @@
 # hello-world
 Start with github
+c$ Master
 
-i am going to become a c$ Master
-soon.
